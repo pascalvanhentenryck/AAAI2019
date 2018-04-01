@@ -1,0 +1,307 @@
+AI and the Web
+
+• AIW: AI for Data Analytics
+• AIW: AI for Multimedia and Multimodal Web Applications
+• AIW: AI for Web Services: Semantic Descriptions, Planning, Matching, and Coordination
+• AIW: AI for Web-Based Collaboration and Cooperation
+• AIW: Crowdsourcing Techniques and Methodologies
+• AIW: Enhancing Web Search and Information Retrieval
+• AIW: Exploiting Linked Open Data
+• AIW: Human Language Technologies for Web Systems, Including Text Summarization and Machine Translation
+• AIW: Intelligent User Interfaces for Web Systems
+• AIW: Knowledge Acquisition from the Web
+• AIW: Languages, Tools, and Methodologies for Representing, Managing, and Visualizing Semantic Web Data
+• AIW: Machine Learning and the Web
+• AIW: Ontologies and the Web: Creation, Extraction, Evolution, Mapping, Merging, and Alignment; Tags and Folksonomies
+• AIW: Question Answering on the Web
+• AIW: Recognizing Web Spam Such as Link Farms and Splogs
+• AIW: Representing, Reasoning, and Using Provenance, Trust, Privacy, and Security on the Web
+• AIW: Searching, Querying, Visualizing, and Interpreting the Semantic Web
+• AIW: Social Networking and Community Identification
+• AIW: Web Personalization and User Modeling
+• AIW: Web-Based Opinion Extraction and Trend Spotting
+• AIW: Web-Based Recommendation Systems
+
+Applications
+
+• APP: AI and Natural Sciences
+• APP: Art and Music
+• APP: Biomedical/Bioinformatics
+• APP: Computational Social Science
+• APP: Computer-Aided Education
+• APP: Intelligent User Interfaces
+• APP: Philosophical and Ethical Issues
+• APP: Security and Privacy
+• APP: Social Networks
+• APP: Other Applications
+
+Cognitive Modeling
+
+• CM: Adaptive Behavior
+• CM: Agent Architectures
+• CM: Bayesian Learning
+• CM: Cognitive Architectures
+• CM: Neural Spike Coding
+• CM: Simulating Humans
+• CM: Symbolic AI
+
+Cognitive Systems
+
+• CS: Conceptual Inference and Reasoning
+• CS: Introspection and Meta-Cognition
+• CS: Memory Storage And Retrieval
+• CS: Natural language understanding and dialogue
+• CS: Problem Solving And Decision Making
+• CS: Social Cognition And Interaction
+• CS: Structural Learning And Knowledge Capture
+
+Computational Sustainability and AI
+
+• CSAI: Control And Optimization Of Dynamic And Spatiotemporal Systems
+• CSAI: Modeling And Control Of Complex High-Dimensional Systems By Combining Physics-Based Models, Model-Based Reasoning, Optimization And Control Methods, And Machine Learning Models Built from Sensor Data
+• CSAI: Modeling And Prediction Of Dynamic And Spatiotemporal Phenomena And Systems
+• CSAI: Modeling the Interactions Of Agents With Different And Often Conflicting Interests
+• CSAI: Network Modeling, Prediction, And Optimization
+• CSAI: Sensor Networks for Monitoring Environments
+• CSAI: Support for Public Engagement And Decision Making By the Public
+
+Game Playing and Interactive Entertainment
+
+• GPIE: General Game Playing
+• GPIE: AI in Game Design
+• GPIE: AI-Based Production and Authoring Tools
+• GPIE: AI Techniques for Games
+• GPIE: AI Storytelling
+• GPIE: Autonomous Characters, NPCs, and Virtual Humans
+• GPIE: Procedural Content Generation
+• GPIE: Commercial AI Implementations
+• GPIE: AI in Novel Entertainment Applications
+• GPIE: Computational Creativity and Generative Art
+• GPIE: AI in Games for Impact
+
+Game Theory and Economic Paradigms
+
+• GTEP: Auctions and Market-Based Systems
+• GTEP: Game Theory
+• GTEP: Negotiation and Contract-Based Systems
+• GTEP: Social Choice / Voting
+• GTEP: Adversarial Learning
+• GTEP: Coordination and Collaboration
+• GTEP: Equilibrium
+• GTEP: Opponent Modeling
+• GTEP: Imperfect Information
+
+Heuristic Search and Optimization
+
+• HSO: Distributed Search
+• HSO: Evaluation and Analysis (Search and Optimization)
+• HSO: Heuristic Search
+• HSO: Metareasoning and Metaheuristics
+• HSO: Optimization
+• HSO: Search (General/Other)
+
+Human-AI Collaboration
+
+• HAC: Communication Protocols
+• HAC: Human-Agent Negotiation
+• HAC: Human-Aware Planning and Behavior Prediction
+• HAC: Human Computation and AI
+• HAC: Human-in-the-loop Planning/Learning
+• HAC: Human-Robot/Agent Interaction
+• HAC: Planning and Decision Support for Human-Machine Teams
+• HAC: Teamwork, Team formation
+• HAC: Trustable and Explainable AI
+
+Humans and AI
+
+• HAI: Brain-Sensing and Analysis
+• HAI: Communication Protocols
+• HAI: Human-Computer Interaction
+• HAI: Interaction Techniques and Devices
+• HAI: Language Acquisition
+• HAI: Understanding People, Theories, Concepts and Methods
+• HAI: User Experience and Usability
+• HAI: Voting
+
+Human Computation and Crowd Sourcing
+
+• HCC: Abstraction of Human Computation Tasks into Taxonomies of Mechanisms
+• HCC: Active Learning from Imperfect Human Labelers
+• HCC: Benefits of One-Time Versus Repeated Labeling
+• HCC: Concerns Regarding the Protection of Labeler Identities
+• HCC: Cost, Reliability, and Skill of Labelers
+• HCC: Creation of Intelligent Bots in Human Computation Games
+• HCC: Design of Manipulation-Resistance Mechanisms in Human Computation
+• HCC: Differences Between Collaborative Vs. Competitive Tasks
+• HCC: Domain-Specific Implementation Challenges in Human Computation Games
+• HCC: Effectiveness of CAPTCHAs
+• HCC: Focus on Tasks Where Crowds, Not Individuals, Have the Answers
+• HCC: Game-Theoretic Mechanism Design of Incentives for Motivation and Honest Reporting
+• HCC: Limitations of Human Computation
+• HCC: Optimality in the Context of Human Computation
+• HCC: Programming Languages, Tools, and Platforms to Support Human Computation
+• HCC: Theories about What Makes Some Human Computation Tasks Fun and Addictive
+• HCC: Utility of Social Networks and Social Credit in Garnering Data
+
+Knowledge Representation and Reasoning
+
+• KRR: Knowledge Acquisition
+• KRR: Knowledge Engineering
+• KRR: Ontologies
+• KRR: Action, Change, and Causality
+• KRR: Argumentation
+• KRR: Automated Reasoning and Theorem Proving
+• KRR: Belief Change
+• KRR: Common-Sense Reasoning
+• KRR: Computational Complexity of Reasoning
+• KRR: Description Logics
+• KRR: Diagnosis and Abductive Reasoning
+• KRR: Geometric, Spatial, and Temporal Reasoning
+• KRR: Knowledge Representation Languages
+• KRR: Logic Programming
+• KRR: Nonmonotonic Reasoning
+• KRR: Preferences
+• KRR: Qualitative Reasoning
+• KRR: Reasoning with Beliefs
+• KRR: Knowledge Representation (General/Other)
+
+Machine Learning Applications
+
+• MLA: Bio/Medicine
+• MLA: Environmental
+• MLA: Humanities
+• MLA: Networks
+• MLA: Applications of Supervised Learning
+• MLA: Applications of Unsupervised Learning
+• MLA: Applications of Reinforcement Learning
+• MLA: Machine Learning Applications (General/other)
+
+Machine Learning Methods
+
+• ML: Active Learning
+• ML: Bayesian Learning
+• ML: Big Data / Scalability
+• ML: Case-Based Reasoning
+• ML: Classification
+• ML: Clustering
+• ML: Data Mining and Knowledge Discovery
+• ML: Deep Learning/Neural Networks
+• ML: Dimensionality Reduction/Feature Selection
+• ML: Ensemble Methods
+• ML: Evaluation and Analysis (Machine Learning)
+• ML: Evolutionary Computation
+• ML: Feature Construction/Reformulation
+• ML: Graphical Model Learning
+• ML: Kernel Methods
+• ML: Learning Theory
+• ML: Online Learning
+• ML: Preferences/Ranking Learning
+• ML: Recommender Systems
+• ML: Reinforcement Learning
+• ML: Relational/Graph-Based Learning
+• ML: Time-Series/Data Streams
+• ML: Transfer, Adaptation, Multitask Learning
+• ML: Semisupervised Learning
+• ML: Structured Prediction
+• ML: Supervised Learning (Other)
+• ML: Unsupervised Learning (Other)
+• ML: Machine Learning (General/other)
+
+Multiagent Systems
+
+• MAS: Ad-Hoc Teamwork
+• MAS: Agent/AI Theories and Architectures
+• MAS: Agent-Based Simulation and Emergent Behavior
+• MAS: Agent Communication
+• MAS: Coordination and Collaboration
+• MAS: Distributed Problem Solving
+• MAS: E-Commerce
+• MAS: Opponent Modeling
+• MAS: Mechanism Design
+• MAS: Multiagent Learning
+• MAS: Multiagent Planning
+• MAS: Evaluation and Analysis (Multiagent Systems)
+• MAS: Multiagent Systems (General/other)
+
+NLP and Knowledge Representation
+
+• NLPKR: Semantics and Summarization
+• NLPKR: Ontology Induction
+• NLPKR: Natural Language Processing (General/Other)
+
+NLP and Machine Learning
+
+• NLPML: Discourse and Dialogue
+• NLPML: Text Classification
+• NLPML: Evaluation and Analysis
+• NLPML: Natural Language Processing (General/Other)
+
+NLP and Text Mining
+
+• NLPTM: Information Extraction
+• NLPTM: Question Answering
+• NLPTM: Evaluation and Analysis
+• NLPTM: Natural Language Processing (General/Other)
+
+Planning and Scheduling
+
+• PS: Activity and Plan Recognition
+• PS: Deterministic Planning
+• PS: Learning Models for Planning and Diagnosis
+• PS: Markov Models of Environments
+• PS: Mixed Discrete/Continuous Planning
+• PS: Model-Based Reasoning
+• PS: Plan Execution and Monitoring
+• PS: Probabilistic Planning
+• PS: Replanning and Plan Repair
+• PS: Scheduling
+• PS: Temporal Planning
+• PS: Planning (General/Other)
+
+Reasoning Under Uncertainty
+
+• RU: Bayesian Networks
+• RU: Graphical Models (Other)
+• RU: Decision/Utility Theory
+• RU: Probabilistic Inference
+• RU: Relational Probabilistic Models
+• RU: Sequential Decision Making
+• RU: Uncertainty Representations
+• RU: Uncertainty in AI (General/Other)
+
+Robotics
+
+• ROB: Behavior and Control
+• ROB: Cognitive Robotics
+• ROB: Human-Robot Interaction
+• ROB: Localization, Mapping, and Navigation
+• ROB: Motion and Path Planning
+• ROB: Multi-Robot Systems
+• ROB: State Estimation
+• ROB: Robotics (General/Other)
+
+Search and Constraint Satisfaction
+
+• SCS: Constraint Satisfaction
+• SCS: Constraint Optimization
+• SCS: Global Constraints
+• SCS: Constraint Learning and Acquisition
+• SCS: Distributed CSP/Optimization
+• SCS: SAT and CSP: Evaluation and Analysis
+• SCS: SAT and CSP: Modeling/Formulations
+• SCS: SAT and CSP: Solvers and Tools
+• SCS: Satisfiability (General/Other)
+• SCS: Constraint Satisfaction (General/other)
+
+Vision
+
+• VIS: Categorization
+• VIS: Face and Gesture Recognition
+• VIS: Image and Video Retrieval
+• VIS: Language and Vision
+• VIS: Motion
+• VIS: Object Detection
+• VIS: Object Recognition
+• VIS: Perception
+• VIS: Statistical Methods and Learning
+• VIS: Videos
