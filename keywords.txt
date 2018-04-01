@@ -11,7 +11,6 @@ AI and the Web
 • AIW: Intelligent User Interfaces for Web Systems
 • AIW: Knowledge Acquisition from the Web
 • AIW: Languages, Tools, and Methodologies for Representing, Managing, and Visualizing Semantic Web Data
-• AIW: Machine Learning and the Web
 • AIW: Ontologies and the Web: Creation, Extraction, Evolution, Mapping, Merging, and Alignment; Tags and Folksonomies
 • AIW: Question Answering on the Web
 • AIW: Recognizing Web Spam Such as Link Farms and Splogs
@@ -26,13 +25,24 @@ Applications
 
 • APP: AI and Natural Sciences
 • APP: Art and Music
-• APP: Biomedical/Bioinformatics
+• APP: Biomedical/Bioinformatics/Medicine
 • APP: Computational Social Science
 • APP: Computer-Aided Education
+• APP: Economic/Financial
+• APP: Energy
+• APP: Entertainment Applications
+• APP: Environmental
+• APP: Game Playing
+• APP: Humanities
 • APP: Intelligent User Interfaces
+• APP: Marketing
+• APP: Mobility
+• APP: Networks
 • APP: Philosophical and Ethical Issues
 • APP: Security and Privacy
 • APP: Social Networks
+• APP: Transportation
+• APP: Web
 • APP: Other Applications
 
 Cognitive Modeling
@@ -50,15 +60,13 @@ Cognitive Systems
 • CS: Conceptual Inference and Reasoning
 • CS: Introspection and Meta-Cognition
 • CS: Memory Storage And Retrieval
-• CS: Natural language understanding and dialogue
-• CS: Problem Solving And Decision Making
 • CS: Social Cognition And Interaction
 • CS: Structural Learning And Knowledge Capture
 
-Computational Sustainability and AI
+Computational Sustainability
 
 • CSAI: Control And Optimization Of Dynamic And Spatiotemporal Systems
-• CSAI: Modeling And Control Of Complex High-Dimensional Systems By Combining Physics-Based Models, Model-Based Reasoning, Optimization And Control Methods, And Machine Learning Models Built from Sensor Data
+• CSAI: Modeling And Control Of Complex High-Dimensional Systems 
 • CSAI: Modeling And Prediction Of Dynamic And Spatiotemporal Phenomena And Systems
 • CSAI: Modeling the Interactions Of Agents With Different And Often Conflicting Interests
 • CSAI: Network Modeling, Prediction, And Optimization
@@ -68,16 +76,13 @@ Computational Sustainability and AI
 Game Playing and Interactive Entertainment
 
 • GPIE: General Game Playing
-• GPIE: AI in Game Design
-• GPIE: AI-Based Production and Authoring Tools
-• GPIE: AI Techniques for Games
-• GPIE: AI Storytelling
+• GPIE: Game Design
+• GPIE: Production and Authoring Tools
+• GPIE: Storytelling
 • GPIE: Autonomous Characters, NPCs, and Virtual Humans
 • GPIE: Procedural Content Generation
-• GPIE: Commercial AI Implementations
-• GPIE: AI in Novel Entertainment Applications
 • GPIE: Computational Creativity and Generative Art
-• GPIE: AI in Games for Impact
+• GPIE: Games for Impact
 
 Game Theory and Economic Paradigms
 
@@ -91,13 +96,12 @@ Game Theory and Economic Paradigms
 • GTEP: Opponent Modeling
 • GTEP: Imperfect Information
 
-Heuristic Search and Optimization
+Heuristic Search 
 
 • HSO: Distributed Search
-• HSO: Evaluation and Analysis (Search and Optimization)
+• HSO: Evaluation and Analysis 
 • HSO: Heuristic Search
 • HSO: Metareasoning and Metaheuristics
-• HSO: Optimization
 • HSO: Search (General/Other)
 
 Human-AI Collaboration
@@ -105,7 +109,7 @@ Human-AI Collaboration
 • HAC: Communication Protocols
 • HAC: Human-Agent Negotiation
 • HAC: Human-Aware Planning and Behavior Prediction
-• HAC: Human Computation and AI
+• HAC: Human Computation 
 • HAC: Human-in-the-loop Planning/Learning
 • HAC: Human-Robot/Agent Interaction
 • HAC: Planning and Decision Support for Human-Machine Teams
@@ -165,48 +169,38 @@ Knowledge Representation and Reasoning
 • KRR: Reasoning with Beliefs
 • KRR: Knowledge Representation (General/Other)
 
-Machine Learning Applications
-
-• MLA: Bio/Medicine
-• MLA: Environmental
-• MLA: Humanities
-• MLA: Networks
-• MLA: Applications of Supervised Learning
-• MLA: Applications of Unsupervised Learning
-• MLA: Applications of Reinforcement Learning
-• MLA: Machine Learning Applications (General/other)
-
-Machine Learning Methods
+Machine Learning
 
 • ML: Active Learning
 • ML: Bayesian Learning
-• ML: Big Data / Scalability
-• ML: Case-Based Reasoning
+• ML: Causal Learning
 • ML: Classification
 • ML: Clustering
-• ML: Data Mining and Knowledge Discovery
+• ML: Data Mining
 • ML: Deep Learning/Neural Networks
 • ML: Dimensionality Reduction/Feature Selection
 • ML: Ensemble Methods
 • ML: Evaluation and Analysis (Machine Learning)
-• ML: Evolutionary Computation
+• ML: Evolutionary Learning
 • ML: Feature Construction/Reformulation
-• ML: Graphical Model Learning
 • ML: Kernel Methods
+• ML: Learning Preferences or Rankings
 • ML: Learning Theory
+• ML: Machine Learning (General/other)
+• ML: Multi-instance/Multi-label/Multi-view learning
+• ML: New Problems
 • ML: Online Learning
-• ML: Preferences/Ranking Learning
+• ML: Probabilistic Graphical Model
 • ML: Recommender Systems
 • ML: Reinforcement Learning
-• ML: Relational/Graph-Based Learning
-• ML: Time-Series/Data Streams
-• ML: Transfer, Adaptation, Multitask Learning
-• ML: Semisupervised Learning
+• ML: Relational Learning
+• ML: Semi-Supervised Learning
 • ML: Structured Prediction
 • ML: Supervised Learning (Other)
+• ML: Time-Series/Data Streams
+• ML: Transfer/Adaptation/Multi-task Learning
 • ML: Unsupervised Learning (Other)
-• ML: Machine Learning (General/other)
-
+ 
 Multiagent Systems
 
 • MAS: Ad-Hoc Teamwork
@@ -223,49 +217,41 @@ Multiagent Systems
 • MAS: Evaluation and Analysis (Multiagent Systems)
 • MAS: Multiagent Systems (General/other)
 
-NLP and Knowledge Representation
+NLP 
 
-• NLPKR: Semantics and Summarization
-• NLPKR: Ontology Induction
-• NLPKR: Natural Language Processing (General/Other)
+• NLP: Discourse and Dialogue
+• NLP: Information Extraction
+• NLP: Ontology Induction
+• NLP: Question Answering
+• NLP: Semantics and Summarization
+• NLP: Text Classification
+• NLP: Natural Language Processing (General/Other)
 
-NLP and Machine Learning
+Planning, Routing, and Scheduling
 
-• NLPML: Discourse and Dialogue
-• NLPML: Text Classification
-• NLPML: Evaluation and Analysis
-• NLPML: Natural Language Processing (General/Other)
-
-NLP and Text Mining
-
-• NLPTM: Information Extraction
-• NLPTM: Question Answering
-• NLPTM: Evaluation and Analysis
-• NLPTM: Natural Language Processing (General/Other)
-
-Planning and Scheduling
-
-• PS: Activity and Plan Recognition
-• PS: Deterministic Planning
-• PS: Learning Models for Planning and Diagnosis
-• PS: Markov Models of Environments
-• PS: Mixed Discrete/Continuous Planning
-• PS: Model-Based Reasoning
-• PS: Plan Execution and Monitoring
-• PS: Probabilistic Planning
-• PS: Replanning and Plan Repair
-• PS: Scheduling
-• PS: Temporal Planning
-• PS: Planning (General/Other)
+• PRS: Activity and Plan Recognition
+• PRS: Deterministic Planning
+• PRS: Learning Models for Planning and Diagnosis
+• PRS: Markov Models of Environments
+• PRS: Mixed Discrete/Continuous Planning
+• PRS: Model-Based Reasoning
+• PRS: Plan Execution and Monitoring
+• PRS: Probabilistic Planning
+• PRS: Replanning and Plan Repair
+• PRS: Routing
+• PRS: Scheduling
+• PRS: Temporal Planning
+• PRS: Planning, Routing, and Scheduling (General/Other)
 
 Reasoning Under Uncertainty
 
 • RU: Bayesian Networks
-• RU: Graphical Models (Other)
+• RU: Graphical Models 
 • RU: Decision/Utility Theory
 • RU: Probabilistic Inference
 • RU: Relational Probabilistic Models
 • RU: Sequential Decision Making
+• RU: Stochastic Optimization
 • RU: Uncertainty Representations
 • RU: Uncertainty in AI (General/Other)
 
@@ -280,18 +266,21 @@ Robotics
 • ROB: State Estimation
 • ROB: Robotics (General/Other)
 
-Search and Constraint Satisfaction
+Constraint Satisfaction and Optimization
 
-• SCS: Constraint Satisfaction
-• SCS: Constraint Optimization
-• SCS: Global Constraints
 • SCS: Constraint Learning and Acquisition
+• SCS: Constraint Optimization
+• SCS: Constraint Programming
+• SCS: Constraint Satisfaction
 • SCS: Distributed CSP/Optimization
-• SCS: SAT and CSP: Evaluation and Analysis
-• SCS: SAT and CSP: Modeling/Formulations
-• SCS: SAT and CSP: Solvers and Tools
-• SCS: Satisfiability (General/Other)
-• SCS: Constraint Satisfaction (General/other)
+• SCS: Global Constraints
+• SCS: Hybrid Optimization
+• SCS: Machine Learning and Optimization
+• SCS: Satisfiability 
+• SCS: Satisfiability Modulo Theories
+• SCS: Search
+• SCS: Solvers and Tools
+• SCS: Constraint Satisfaction and Optimization (General/other)
 
 Vision
 
