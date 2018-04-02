@@ -1,0 +1,86 @@
+David V. Pynadath, USC
+Mausam, University of Washington
+Sanmay Das, Washington University at Saint Louis
+Craig Knoblock, USC
+Doug Downey, Nothwestern University
+Weixiong Zhang, Washington University at Saint Louis
+Yiling Chen, Harvard University
+Diego Calvanese, Free University of Bozen-Bolzano
+Iyad Rahwan, Massachusetts Institute of Technology
+Milind Tambe, USC
+Kevin Leyton-Brown, UBC
+Stephen Smith, CMU
+Mykel J. Kochenderfer, Stanford
+Chad Jenkins, Michigan
+Pascal Poupart, Waterloo
+Volker Roth, University of Basel
+John E. Laird, University of Michigan
+Héctor Muñoz-Avila, Lehig University
+Matthew Klenk, Xerox Park
+Ashok Goel, Georgia Tech
+Mark Riedl, Georgia Tech
+Bistra Dilkina, USC.
+Michael Bowling, Alberta.
+Francesca Rossi, IBM.
+Vincent Conitzer, Duke.
+Ariel Procaccia, CMU
+Sven Koening, USC
+Stephen F. Smith, CMU
+Nathan Sturtevant, University of Denver
+Wheeler Ruml, University of New Hampshire
+Ece Kamar, Microsoft
+Julie Shah, MIT
+Charles L. Isbell, Jr., Georgia Tech
+Ross A. Knepper, Cornell
+Ya'akov (Kobi) Gal, Ben Gurion
+Devi Parikh, Georgia Tech
+Devi Parikh, Georgia Tech
+Laura M. Hiatt, Naval Research Laboratory
+Fangzhen Lin, Hong Kong University of Science and Technology 
+Giuseppe De Giacomo, Sapienza Universita' di Roma
+Thomas Eiter, TU Wien
+David Poole, UBC
+Yves Lesperance, York University, Toronto 
+Michael Thielscher, USNW
+Marc Denecker, KULeuven
+Vincent Conitzer, Duke University
+Haris Aziz, CSIRO
+David Parkes, Harvard University
+Craig Boutilier, Google
+Sarit Kraus, Bar-Ilan University 
+Amy Greenwald, Brown University
+Dan Roth, University of Pennsylvania
+Radha Mihalcea, University of Michigan
+Prateek Jain, Microsoft
+Sanja Fidler, University of Toronto
+Hwee Tou Ng, NUS
+Daniel Marcu, ISI
+Dragomir Radev, Yale University
+Yejin Choi, University of Washington
+Julia Hockenmaier, University of Illinois at Urbana-Champain
+Noah Smith, University of Washington
+Lillian Lee, Cornell University
+Chris Beck, Toronto
+Sylvie Thiebaux, ANU
+Malte Helmert, University of Basel
+Gaby Roeger, University of Basel
+Stephen Smith, CMU
+Hector Geffner, Universitat Pompeu Fabra 
+Scott Sanner, Toronto
+Patrik Haslum, ANU
+Shlomo Zilberstein, University of Massachusetts
+Rina Dechter, UC Irvine
+Peter Stone, UT Austin
+Manuela Veloso, CMU
+Leslie Pack Kaelbling, MIT
+Michela Milano, University of Bologna
+Peter van Beek, University of Waterloo
+Willem van Hoeve, CMU
+Fahiem Bacchus, University of Toronto
+Daniel Le Berre, Université d'Artois
+Ines Lynce, INESC-ID Lisboa, 
+Maria garcia de la Banda, Monash University
+Prateek Jain, Microsoft (see above)
+Manmohan Chandraker, NEC, US
+Claire Cardie, Cornell University
+Pedro Felzenszwalb, Brown University

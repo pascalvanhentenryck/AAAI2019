@@ -1,6 +1,14 @@
 AI and the Web  (10%)
 
-David V. Pynadath, Mausam, Sanmay Das
+David V. Pynadath, USC
+Mausam, University of Washington
+Sanmay Das, Washington University at Saint Louis
+Craig Knoblock, USC
+Doug Downey, Nothwestern University
+Weixiong Zhang, Washington University at Saint Louis
+Yiling Chen, Harvard University
+Diego Calvanese, Free University of Bozen-Bolzano
+Iyad Rahwan, Massachusetts Institute of Technology
 
 • AIW: AI for Data Analytics
 • AIW: AI for Multimedia and Multimodal Web Applications
@@ -23,9 +31,16 @@ David V. Pynadath, Mausam, Sanmay Das
 • AIW: Web-Based Opinion Extraction and Trend Spotting
 • AIW: Web-Based Recommendation Systems
 
-Applications (see also new track by Milind) 10%
+Milind, 
+Kevin, 
 
-[Milind, Kevin]
+Applications 10%
+
+Stephen Smith, CMU
+Mykel J. Kochenderfer, Stanford
+Chad Jenkins, Michigan
+Pascal Poupart, Waterloo
+Volker Roth, University of Basel
 
 • APP: AI and Natural Sciences
 • APP: Art and Music
@@ -51,6 +66,8 @@ Applications (see also new track by Milind) 10%
 
 Cognitive Modeling [1%]
 
+John E. Laird, University of Michigan
+
 • CM: Adaptive Behavior
 • CM: Agent Architectures
 • CM: Bayesian Learning
@@ -61,7 +78,10 @@ Cognitive Modeling [1%]
 
 Cognitive Systems [2%]
 
-[Héctor Muñoz-Avila, Matthew Klenk
+Héctor Muñoz-Avila, Lehig University
+Matthew Klenk, Xerox Park
+Ashok Goel, Georgia Tech
+Mark Riedl, Georgia Tech
 
 • CS: Conceptual Inference and Reasoning
 • CS: Introspection and Meta-Cognition
@@ -71,7 +91,7 @@ Cognitive Systems [2%]
 
 Computational Sustainability (2%)
 
-[Daniel Sheldon, Bistra]
+Bistra Dilkina, USC.
 
 • CSAI: Control And Optimization Of Dynamic And Spatiotemporal Systems
 • CSAI: Modeling And Control Of Complex High-Dimensional Systems 
@@ -83,7 +103,7 @@ Computational Sustainability (2%)
 
 Game Playing and Interactive Entertainment [1%]
 
-[Héctor Muñoz-Avila, Michael Bowling
+Michael Bowling, Alberta.
 
 • GPIE: General Game Playing
 • GPIE: Game Design
@@ -96,7 +116,9 @@ Game Playing and Interactive Entertainment [1%]
 
 Game Theory and Economic Paradigms (5%)
 
-[Francesca, Vincent Conitzer, Sanmay Das
+Francesca Rossi, IBM.
+Vincent Conitzer, Duke.
+Ariel Procaccia, CMU
 
 • GTEP: Auctions and Market-Based Systems
 • GTEP: Game Theory
@@ -110,7 +132,10 @@ Game Theory and Economic Paradigms (5%)
 
 Heuristic Search (1.5%)
 
-[Sven]
+Sven Koening, USC
+Stephen F. Smith, CMU
+Nathan Sturtevant, University of Denver
+Wheeler Ruml, University of New Hampshire
 
 • HSO: Distributed Search
 • HSO: Evaluation and Analysis 
@@ -120,7 +145,12 @@ Heuristic Search (1.5%)
 
 Human-AI Collaboration (3-4%)
 
-[Rao, Ece Kamar, Julie Shah, Charles L. Isbell, Jr., Ross A. Knepper, Ya'akov (Kobi) Gal, Devi Parikh
+Ece Kamar, Microsoft
+Julie Shah, MIT
+Charles L. Isbell, Jr., Georgia Tech
+Ross A. Knepper, Cornell
+Ya'akov (Kobi) Gal, Ben Gurion
+Devi Parikh, Georgia Tech
 
 • HAC: Communication Protocols
 • HAC: Human-Agent Negotiation
@@ -134,7 +164,7 @@ Human-AI Collaboration (3-4%)
 
 Humans and AI  [1%]
 
-Devi Parikh, Rada
+Devi Parikh, Georgia Tech
 
 • HAI: Brain-Sensing and Analysis
 • HAI: Communication Protocols
@@ -147,7 +177,7 @@ Devi Parikh, Rada
 
 Human Computation and Crowd Sourcing [1%]
 
-[Laura M. Hiatt, Mausam]
+Laura M. Hiatt, Naval Research Laboratory
 
 • HCC: Abstraction of Human Computation Tasks into Taxonomies of Mechanisms
 • HCC: Active Learning from Imperfect Human Labelers
@@ -169,7 +199,13 @@ Human Computation and Crowd Sourcing [1%]
 
 Knowledge Representation and Reasoning (7.5%)
 
-Fangzhen Lin, Giuseppe De Giacomo, Thomas Eiter
+Fangzhen Lin, Hong Kong University of Science and Technology 
+Giuseppe De Giacomo, Sapienza Universita' di Roma
+Thomas Eiter, TU Wien
+David Poole, UBC
+Yves Lesperance, York University, Toronto 
+Michael Thielscher, USNW
+Marc Denecker, KULeuven
 
 • KRR: Knowledge Acquisition
 • KRR: Knowledge Engineering
@@ -225,7 +261,12 @@ Machine Learning
  
 Multiagent Systems (5%)
 
-[Vincent Conitzer, Haris Aziz, david Parkes, Craig Boutilier, Sarit Kraus, Amy Greenwald]
+Vincent Conitzer, Duke University
+Haris Aziz, CSIRO
+David Parkes, Harvard University
+Craig Boutilier, Google
+Sarit Kraus, Bar-Ilan University 
+Amy Greenwald, Brown University
 
 • MAS: Ad-Hoc Teamwork
 • MAS: Agent/AI Theories and Architectures
@@ -243,7 +284,18 @@ Multiagent Systems (5%)
 
 NLP (10-20%)
 
-[Dan Roth, Radha, Laura M. Hiatt, Mausam, Prateek Jain, Sanja Fidler, Hwee Tou ng, Daniel Marcu
+Dan Roth, University of Pennsylvania
+Radha Mihalcea, University of Michigan
+Laura M. Hiatt, Naval Research Laboratory (see above)
+Prateek Jain, Microsoft
+Sanja Fidler, University of Toronto
+Hwee Tou Ng, NUS
+Daniel Marcu, ISI
+Dragomir Radev, Yale University
+Yejin Choi, University of Washington
+Julia Hockenmaier, University of Illinois at Urbana-Champain
+Noah Smith, University of Washington
+Lillian Lee, Cornell University
 
 • NLP: Discourse and Dialogue
 • NLP: Information Extraction
@@ -256,7 +308,14 @@ NLP (10-20%)
 
 Planning, Routing, and Scheduling (8%)
 
-[Chris, Sylvie, Malte, Gaby, Stephen, Hector, Scott Sanner, Patrik Haslum]
+Chris Beck, Toronto
+Sylvie Thiebaux, ANU
+Malte Helmert, University of Basel
+Gaby Roeger, University of Basel
+Stephen Smith, CMU
+Hector Geffner, Universitat Pompeu Fabra 
+Scott Sanner, Toronto
+Patrik Haslum, ANU
 
 • PRS: Activity and Plan Recognition
 • PRS: Deterministic Planning
@@ -274,7 +333,8 @@ Planning, Routing, and Scheduling (8%)
 
 Reasoning Under Uncertainty (1%)
 
-[Shlomo, Mausam, Hector, Rina, Pascal Poupart]
+Shlomo Zilberstein, University of Massachusetts
+Rina Dechter, UC Irvine
 
 • RU: Bayesian Networks
 • RU: Graphical Models 
@@ -288,7 +348,13 @@ Reasoning Under Uncertainty (1%)
 
 Robotics [2%]
 
-[Sven, Peter Stone, Manuela Veloso, Julie Shah, Ross A. Knepper, Laura M. Hiatt, Volker Roth
+Sven Koenig, USC (see above)
+Peter Stone, UT Austin
+Manuela Veloso, CMU
+Julie Shah, MIT (see above)
+Ross A. Knepper, Cornell (see above)
+Laura M. Hiatt, Naval Research Laboratory (see above)
+Leslie Pack Kaelbling, MIT
 
 • ROB: Behavior and Control
 • ROB: Cognitive Robotics
@@ -301,7 +367,13 @@ Robotics [2%]
 
 Constraint Satisfaction and Optimization (1.5%)
 
-[Michela, van Beek, Willem van Hoeve, Fahiem Bacchus, Daniel Le Berre, Ines Lynce, Maria garcia de la Banda]
+Michela Milano, University of Bologna
+Peter van Beek, University of Waterloo
+Willem van Hoeve, CMU
+Fahiem Bacchus, University of Toronto
+Daniel Le Berre, Université d'Artois
+Ines Lynce, INESC-ID Lisboa, 
+Maria garcia de la Banda, Monash University
 
 • SCS: Constraint Learning and Acquisition
 • SCS: Constraint Optimization
@@ -319,7 +391,11 @@ Constraint Satisfaction and Optimization (1.5%)
 
 Vision [20%]
 
-[Prateek Jain, Sanja Fidler]
+Prateek Jain, Microsoft (see above)
+Sanja Fidler, University of Toronto (see above)
+Manmohan Chandraker, NEC, US
+Claire Cardie, Cornell University
+Pedro Felzenszwalb, Brown University
 
 • VIS: Categorization
 • VIS: Face and Gesture Recognition
