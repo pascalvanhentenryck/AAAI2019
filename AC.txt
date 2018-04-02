@@ -1,0 +1,333 @@
+AI and the Web  (10%)
+
+David V. Pynadath, Mausam, Sanmay Das
+
+• AIW: AI for Data Analytics
+• AIW: AI for Multimedia and Multimodal Web Applications
+• AIW: AI for Web Services: Semantic Descriptions, Planning, Matching, and Coordination
+• AIW: AI for Web-Based Collaboration and Cooperation
+• AIW: Crowdsourcing Techniques and Methodologies
+• AIW: Enhancing Web Search and Information Retrieval
+• AIW: Exploiting Linked Open Data
+• AIW: Human Language Technologies for Web Systems, Including Text Summarization and Machine Translation
+• AIW: Intelligent User Interfaces for Web Systems
+• AIW: Knowledge Acquisition from the Web
+• AIW: Languages, Tools, and Methodologies for Representing, Managing, and Visualizing Semantic Web Data
+• AIW: Ontologies and the Web: Creation, Extraction, Evolution, Mapping, Merging, and Alignment; Tags and Folksonomies
+• AIW: Question Answering on the Web
+• AIW: Recognizing Web Spam Such as Link Farms and Splogs
+• AIW: Representing, Reasoning, and Using Provenance, Trust, Privacy, and Security on the Web
+• AIW: Searching, Querying, Visualizing, and Interpreting the Semantic Web
+• AIW: Social Networking and Community Identification
+• AIW: Web Personalization and User Modeling
+• AIW: Web-Based Opinion Extraction and Trend Spotting
+• AIW: Web-Based Recommendation Systems
+
+Applications (see also new track by Milind) 10%
+
+[Milind, Kevin]
+
+• APP: AI and Natural Sciences
+• APP: Art and Music
+• APP: Biomedical/Bioinformatics/Medicine
+• APP: Computational Social Science
+• APP: Computer-Aided Education
+• APP: Economic/Financial
+• APP: Energy
+• APP: Entertainment Applications
+• APP: Environmental
+• APP: Game Playing
+• APP: Humanities
+• APP: Intelligent User Interfaces
+• APP: Marketing
+• APP: Mobility
+• APP: Networks
+• APP: Philosophical and Ethical Issues
+• APP: Security and Privacy
+• APP: Social Networks
+• APP: Transportation
+• APP: Web
+• APP: Other Applications
+
+Cognitive Modeling [1%]
+
+• CM: Adaptive Behavior
+• CM: Agent Architectures
+• CM: Bayesian Learning
+• CM: Cognitive Architectures
+• CM: Neural Spike Coding
+• CM: Simulating Humans
+• CM: Symbolic AI
+
+Cognitive Systems [2%]
+
+[Héctor Muñoz-Avila, Matthew Klenk
+
+• CS: Conceptual Inference and Reasoning
+• CS: Introspection and Meta-Cognition
+• CS: Memory Storage And Retrieval
+• CS: Social Cognition And Interaction
+• CS: Structural Learning And Knowledge Capture
+
+Computational Sustainability (2%)
+
+[Daniel Sheldon, Bistra]
+
+• CSAI: Control And Optimization Of Dynamic And Spatiotemporal Systems
+• CSAI: Modeling And Control Of Complex High-Dimensional Systems 
+• CSAI: Modeling And Prediction Of Dynamic And Spatiotemporal Phenomena And Systems
+• CSAI: Modeling the Interactions Of Agents With Different And Often Conflicting Interests
+• CSAI: Network Modeling, Prediction, And Optimization
+• CSAI: Sensor Networks for Monitoring Environments
+• CSAI: Support for Public Engagement And Decision Making By the Public
+
+Game Playing and Interactive Entertainment [1%]
+
+[Héctor Muñoz-Avila, Michael Bowling
+
+• GPIE: General Game Playing
+• GPIE: Game Design
+• GPIE: Production and Authoring Tools
+• GPIE: Storytelling
+• GPIE: Autonomous Characters, NPCs, and Virtual Humans
+• GPIE: Procedural Content Generation
+• GPIE: Computational Creativity and Generative Art
+• GPIE: Games for Impact
+
+Game Theory and Economic Paradigms (5%)
+
+[Francesca, Vincent Conitzer, Sanmay Das
+
+• GTEP: Auctions and Market-Based Systems
+• GTEP: Game Theory
+• GTEP: Negotiation and Contract-Based Systems
+• GTEP: Social Choice / Voting
+• GTEP: Adversarial Learning
+• GTEP: Coordination and Collaboration
+• GTEP: Equilibrium
+• GTEP: Opponent Modeling
+• GTEP: Imperfect Information
+
+Heuristic Search (1.5%)
+
+[Sven]
+
+• HSO: Distributed Search
+• HSO: Evaluation and Analysis 
+• HSO: Heuristic Search
+• HSO: Metareasoning and Metaheuristics
+• HSO: Search (General/Other)
+
+Human-AI Collaboration (3-4%)
+
+[Rao, Ece Kamar, Julie Shah, Charles L. Isbell, Jr., Ross A. Knepper, Ya'akov (Kobi) Gal, Devi Parikh
+
+• HAC: Communication Protocols
+• HAC: Human-Agent Negotiation
+• HAC: Human-Aware Planning and Behavior Prediction
+• HAC: Human Computation 
+• HAC: Human-in-the-loop Planning/Learning
+• HAC: Human-Robot/Agent Interaction
+• HAC: Planning and Decision Support for Human-Machine Teams
+• HAC: Teamwork, Team formation
+• HAC: Trustable and Explainable AI
+
+Humans and AI  [1%]
+
+Devi Parikh, Rada
+
+• HAI: Brain-Sensing and Analysis
+• HAI: Communication Protocols
+• HAI: Human-Computer Interaction
+• HAI: Interaction Techniques and Devices
+• HAI: Language Acquisition
+• HAI: Understanding People, Theories, Concepts and Methods
+• HAI: User Experience and Usability
+• HAI: Voting
+
+Human Computation and Crowd Sourcing [1%]
+
+[Laura M. Hiatt, Mausam]
+
+• HCC: Abstraction of Human Computation Tasks into Taxonomies of Mechanisms
+• HCC: Active Learning from Imperfect Human Labelers
+• HCC: Benefits of One-Time Versus Repeated Labeling
+• HCC: Concerns Regarding the Protection of Labeler Identities
+• HCC: Cost, Reliability, and Skill of Labelers
+• HCC: Creation of Intelligent Bots in Human Computation Games
+• HCC: Design of Manipulation-Resistance Mechanisms in Human Computation
+• HCC: Differences Between Collaborative Vs. Competitive Tasks
+• HCC: Domain-Specific Implementation Challenges in Human Computation Games
+• HCC: Effectiveness of CAPTCHAs
+• HCC: Focus on Tasks Where Crowds, Not Individuals, Have the Answers
+• HCC: Game-Theoretic Mechanism Design of Incentives for Motivation and Honest Reporting
+• HCC: Limitations of Human Computation
+• HCC: Optimality in the Context of Human Computation
+• HCC: Programming Languages, Tools, and Platforms to Support Human Computation
+• HCC: Theories about What Makes Some Human Computation Tasks Fun and Addictive
+• HCC: Utility of Social Networks and Social Credit in Garnering Data
+
+Knowledge Representation and Reasoning (7.5%)
+
+Fangzhen Lin, Giuseppe De Giacomo, Thomas Eiter
+
+• KRR: Knowledge Acquisition
+• KRR: Knowledge Engineering
+• KRR: Ontologies
+• KRR: Action, Change, and Causality
+• KRR: Argumentation
+• KRR: Automated Reasoning and Theorem Proving
+• KRR: Belief Change
+• KRR: Common-Sense Reasoning
+• KRR: Computational Complexity of Reasoning
+• KRR: Description Logics
+• KRR: Diagnosis and Abductive Reasoning
+• KRR: Geometric, Spatial, and Temporal Reasoning
+• KRR: Knowledge Representation Languages
+• KRR: Logic Programming
+• KRR: Nonmonotonic Reasoning
+• KRR: Preferences
+• KRR: Qualitative Reasoning
+• KRR: Reasoning with Beliefs
+• KRR: Knowledge Representation (General/Other)
+
+Machine Learning
+
+• ML: Active Learning
+• ML: Bayesian Learning
+• ML: Causal Learning
+• ML: Classification
+• ML: Clustering
+• ML: Data Mining
+• ML: Deep Learning/Neural Networks
+• ML: Dimensionality Reduction/Feature Selection
+• ML: Ensemble Methods
+• ML: Evaluation and Analysis (Machine Learning)
+• ML: Evolutionary Learning
+• ML: Feature Construction/Reformulation
+• ML: Kernel Methods
+• ML: Learning Preferences or Rankings
+• ML: Learning Theory
+• ML: Machine Learning (General/other)
+• ML: Multi-instance/Multi-label/Multi-view learning
+• ML: New Problems
+• ML: Online Learning
+• ML: Probabilistic Graphical Model
+• ML: Recommender Systems
+• ML: Reinforcement Learning
+• ML: Relational Learning
+• ML: Semi-Supervised Learning
+• ML: Structured Prediction
+• ML: Supervised Learning (Other)
+• ML: Time-Series/Data Streams
+• ML: Transfer/Adaptation/Multi-task Learning
+• ML: Unsupervised Learning (Other)
+ 
+Multiagent Systems (5%)
+
+[Vincent Conitzer, Haris Aziz, david Parkes, Craig Boutilier, Sarit Kraus, Amy Greenwald]
+
+• MAS: Ad-Hoc Teamwork
+• MAS: Agent/AI Theories and Architectures
+• MAS: Agent-Based Simulation and Emergent Behavior
+• MAS: Agent Communication
+• MAS: Coordination and Collaboration
+• MAS: Distributed Problem Solving
+• MAS: E-Commerce
+• MAS: Opponent Modeling
+• MAS: Mechanism Design
+• MAS: Multiagent Learning
+• MAS: Multiagent Planning
+• MAS: Evaluation and Analysis (Multiagent Systems)
+• MAS: Multiagent Systems (General/other)
+
+NLP (10-20%)
+
+[Dan Roth, Radha, Laura M. Hiatt, Mausam, Prateek Jain, Sanja Fidler, Hwee Tou ng, Daniel Marcu
+
+• NLP: Discourse and Dialogue
+• NLP: Information Extraction
+• NLP: Knowledge Representation
+• NLP: Ontology Induction
+• NLP: Question Answering
+• NLP: Semantics and Summarization
+• NLP: Text Classification
+• NLP: Natural Language Processing (General/Other)
+
+Planning, Routing, and Scheduling (8%)
+
+[Chris, Sylvie, Malte, Gaby, Stephen, Hector, Scott Sanner, Patrik Haslum]
+
+• PRS: Activity and Plan Recognition
+• PRS: Deterministic Planning
+• PRS: Learning Models for Planning and Diagnosis
+• PRS: Markov Models of Environments
+• PRS: Mixed Discrete/Continuous Planning
+• PRS: Model-Based Reasoning
+• PRS: Plan Execution and Monitoring
+• PRS: Probabilistic Planning
+• PRS: Replanning and Plan Repair
+• PRS: Routing
+• PRS: Scheduling
+• PRS: Temporal Planning
+• PRS: Planning, Routing, and Scheduling (General/Other)
+
+Reasoning Under Uncertainty (1%)
+
+[Shlomo, Mausam, Hector, Rina, Pascal Poupart]
+
+• RU: Bayesian Networks
+• RU: Graphical Models 
+• RU: Decision/Utility Theory
+• RU: Probabilistic Inference
+• RU: Relational Probabilistic Models
+• RU: Sequential Decision Making
+• RU: Stochastic Optimization
+• RU: Uncertainty Representations
+• RU: Uncertainty in AI (General/Other)
+
+Robotics [2%]
+
+[Sven, Peter Stone, Manuela Veloso, Julie Shah, Ross A. Knepper, Laura M. Hiatt, Volker Roth
+
+• ROB: Behavior and Control
+• ROB: Cognitive Robotics
+• ROB: Human-Robot Interaction
+• ROB: Localization, Mapping, and Navigation
+• ROB: Motion and Path Planning
+• ROB: Multi-Robot Systems
+• ROB: State Estimation
+• ROB: Robotics (General/Other)
+
+Constraint Satisfaction and Optimization (1.5%)
+
+[Michela, van Beek, Willem van Hoeve, Fahiem Bacchus, Daniel Le Berre, Ines Lynce, Maria garcia de la Banda]
+
+• SCS: Constraint Learning and Acquisition
+• SCS: Constraint Optimization
+• SCS: Constraint Programming
+• SCS: Constraint Satisfaction
+• SCS: Distributed CSP/Optimization
+• SCS: Global Constraints
+• SCS: Hybrid Optimization
+• SCS: Machine Learning and Optimization
+• SCS: Satisfiability 
+• SCS: Satisfiability Modulo Theories
+• SCS: Search
+• SCS: Solvers and Tools
+• SCS: Constraint Satisfaction and Optimization (General/other)
+
+Vision [20%]
+
+[Prateek Jain, Sanja Fidler]
+
+• VIS: Categorization
+• VIS: Face and Gesture Recognition
+• VIS: Image and Video Retrieval
+• VIS: Language and Vision
+• VIS: Motion
+• VIS: Object Detection
+• VIS: Object Recognition
+• VIS: Perception
+• VIS: Statistical Methods and Learning
+• VIS: Videos
