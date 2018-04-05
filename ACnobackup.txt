@@ -1,0 +1,170 @@
+AI and the Web  (10%) 5
+=====================================================
+Weixiong Zhang, Washington University at Saint Louis, weixiong.zhang@wustl.edu
+Yiling Chen, Harvard University, yiling@seas.harvard.edu
+Diego Calvanese, Free University of Bozen-Bolzano, Italy, calvanese@inf.unibz.it
+Iyad Rahwan, Massachusetts Institute of Technology, irahwan@mit.edu
+Irwin King, The Chinese University of Hong Kong, Hong Kong,  king@cse.cuhk.edu.hk
+
+AI For Social Impact 
+=====================================================
+Milind Tambe, USC, tambe@usc.edu
+Kevin Leyton-Brown, UBC, kevinlb@cs.ubc.ca
+
+Applications 10% 5
+=====================================================
+Stephen Smith, CMU, sfs@cs.cmu.edu
+Chad Jenkins, Michigan, ocj@umich.edu
+Pascal Poupart, Waterloo, ppoupart@uwaterloo.ca
+Volker Roth, University of Basel, Volker.Roth@unibas.ch
+Jennifer Neville, Purdue University, USA, neville@cs.purdue.edu
+
+Cognitive Modeling [1%] 1
+=====================================================
+John E. Laird, University of Michigan, laird@umich.edu
+
+Cognitive Systems [2%] 1
+=====================================================
+Ashok Goel, Georgia Tech, goel@cc.gatech.edu
+
+Computational Sustainability (2%) 1
+=====================================================
+Bistra Dilkina, USC, dilkina@usc.edu
+
+Game Playing and Interactive Entertainment [1%] 1
+=====================================================
+Michael Bowling, Alberta, bowling@cs.ualberta.ca
+
+Game Theory and Economic Paradigms (5%) 3
+=====================================================
+Francesca Rossi, IBM, frossi@math.unipd.it
+Vincent Conitzer, Duke, conitzer@cs.duke.edu
+Kate Larson, University of Waterloo, kate.larson@uwaterloo.ca
+
+Heuristic Search (1.5%) 1
+=====================================================
+Nathan Sturtevant, University of Denver, sturtevant@cs.du.edu
+
+Human-AI Collaboration (3-4%) 2
+=====================================================
+Charles L. Isbell, Jr., Georgia Tech, isbell@cc.gatech.edu 
+Ece Kamar, Microsoft, eckamar@microsoft.com
+
+Humans and AI [1%] 1
+=====================================================
+Devi Parikh, Georgia Tech, parikh@gatech.edu
+
+Human Computation and Crowd Sourcing [1%] 1
+=====================================================
+Laura M. Hiatt, Naval Research Laboratory, laura.hiatt@nrl.navy.mil
+
+Knowledge Representation and Reasoning (7.5%) 4
+=====================================================
+Thomas Eiter, TU Wien, eiter@kr.tuwien.ac.at
+Giuseppe De Giacomo, Sapienza Universita' di Roma, degiacomo@dis.uniroma1.it
+Fangzhen Lin, Hong Kong University of Science and Technology, flin@cs.ust.hk
+David Poole, UBC, poole@cs.ubc.ca
+
+Machine Learning [many :)]
+=====================================================
+
+Pieter Abbeel, UC Berkeley, pabbeel@cs.berkeley.edu
+Maria-Florina Balcan, Carnegie Mellon University, ninamf@cs.cmu.edu
+Craig Boutilier cboutilier@google.com Google
+Luc De Raedt, Katholieke Universiteit Leuven, Luc.DeRaedt@cs.kuleuven.be
+Pedro Domingos, University of Washington, pedrod@cs.washington.edu
+Jennifer Dy, Northeastern University, jdy@ece.neu.edu 
+Alan Fern, Oregon State University, afern@eecs.oregonstate.edu 
+Johannes Fuenkranz, TU Darmstadt, juffi@ke.informatik.tu-darmstadt.de 
+Yuhong Guo, Carleton University, Yuhong.Guo@carleton.ca	
+Jingrui	He, Arizona State University, jingrui.he@gmail.com
+Geoff Holmes, The University of Waikato, geoff@waikato.ac.nz	
+Vasant Honavar, The Pennsylvania State University, vhonavar@ist.psu.edu
+Rong Jin, Alibaba Inc jinrong.jr@alibaba-inc.com	
+James Kwok, Hong Kong University of Science and Technology, jamesk@cse.ust.hk	
+John Langford, Microsoft, jl@hunch.net	
+Wee Sun Lee, National University of Singapore, leews@comp.nus.edu.sg
+Daniel Lee, University of Pennsylvania, ddlee@seas.upenn.edu 
+Hang Li, Toutiao Inc, hangli65@gmail.com 
+Lihong 	Li, Google, lihongli.cs@gmail.com 
+Hsuan Tien Lin,	National Taiwan University, htlin@csie.ntu.edu.tw 
+Bing Liu, University of Illinois at Chicago, liub@uic.edu 
+Huan Liu, Arizona State University, hliu@asu.edu	
+Tie-Yan	Liu, Microsoft, tyliu@microsoft.com	
+Andrew McCallum, University of Massachusetts Amherst, mccallum@cs.umass.edu	
+Alexandru Niculescu Mizil, NEC Laboratories America, alexnic@gmail.com	
+Doina Precup, McGill University, dprecup@cs.mcgill.ca	
+Ruslan Salakhutdinov, Carnegie Mellon University, rsalakhu@cs.cmu.edu	
+Dale Schuurmans, University of Alberta, dale@cs.ualberta.ca	
+Michele Sebag, Laboratoire de Recherche en Informatique, sebag@lri.fr	
+Fei Sha, University of Southern California, feisha@usc.edu	
+David Silver, Google DeepMind, davidsilver@google.com	
+Peter Stone, University of Texas at Austin, pstone.peter@gmail.com	
+Masashi Sugiyama, The University of Tokyo, sugi@k.u-tokyo.ac.jp	
+Csaba Szepesvari, University of Alberta, szepesva@ualberta.ca	
+Kilian Weinberger, Cornell University, kqw4@cornell.edu	
+Jianxin	Wu, Nanjing University, wujx2001@gmail.com	
+Qiang Yang, Hong Kong University of Science and Technology, qyang@cse.ust.hk	
+Jieping	Ye, University of Michigan, jpye@umich.edu	
+Yang Yu, Nanjing University, yuy@lamda.nju.edu.cn	
+Kun Zhang, Carnegie Mellon University, kunz1@cmu.edu	
+Min Ling Zhang,	Southeast University, zhangml@seu.edu.cn	
+Tong Zhang, Tencent Inc, tongzhang@tongzhang-ml.org	
+Jun Zhu, Tsinghua University, dcszj@mail.tsinghua.edu.cn	
+Xiaojin	Zhu, University of Wisconsin-Madison, jerryzhu@cs.wisc.edu	
+Mausam,	University of Washington, mausam@cs.washington.edu	
+
+Multiagent Systems (5%) 3
+=====================================================
+Haris Aziz, CSIRO, Haris.Aziz@data61.csiro.au
+David Parkes, Harvard University, parkes@eecs.harvard.edu 
+Sarit Kraus, Bar-Ilan University, sarit@cs.biu.ac.il
+
+
+NLP (10-20%) 10
+=====================================================
+Yejin Choi, University of Washington, yejin@cs.washington.edu
+Sanja Fidler, University of Toronto, fidler@cs.toronto.edu
+Lillian Lee, Cornell University, llee@cs.cornell.edu
+Daniel Marcu, ISI, marcu@isi.edu
+Radha Mihalcea, University of Michigan, mihalcea@umich.edu
+Roberto Navigli, Sapienza Universita' di Roma, Italy, navigli@di.uniroma1.it
+Hwee Tou Ng, NUS, nght@comp.nus.edu.sg
+Dragomir Radev, Yale University, dragomir.radev@yale.edu
+Dan Roth, University of Pennsylvania, danroth@cis.upenn.edu
+Chengqing Zong, Institute of Automation, Chinese Academy of Sciences, cqzong@nlpr.ia.ac.cn
+
+Planning, Routing, and Scheduling (8%) 4
+=====================================================
+Gaby Roeger, University of Basel, gabriele.roeger@unibas.ch
+Hector Geffner, Universitat Pompeu Fabra, hector.geffner@upf.edu
+Scott Sanner, Toronto, ssanner@mie.utoronto.ca 
+Patrik Haslum, ANU, patrik.haslum@anu.edu.au
+
+Reasoning Under Uncertainty (1%) 1
+=====================================================
+Rina Dechter, UC Irvine, dechter@ics.uci.edu
+
+Robotics [2%] 1
+=====================================================
+Leslie Pack Kaelbling, MIT, lpk@csail.mit.edu
+
+
+Constraint Satisfaction and Optimization (1.5%) 1
+=====================================================
+Michela Milano, University of Bologna, michela.milano@unibo.it
+
+Vision [20%] 10
+=====================================================
+Ognjen Arandjelovic, University of St Andrews, United Kingdom, ognjen.arandjelovic@gmail.com
+Manmohan Chandraker, NEC, manu@nec-labs.com 
+Bruce Draper, Colorado State University, draper@colostate.edu 
+Yun Fu, Northeastern University,  yunfu@ece.neu.edu
+Zhouchen Lin, Peking University, zlin@pku.edu.cn
+Jiebo Luo, University of Rochester, jiebo.luo@gmail.com
+Dacheng Tao, University of Technology Sydney, dacheng.tao@uts.edu.au
+Rene Vidal, Johns Hopkins University, rvidal@cis.jhu.edu
+Jianxin Wu, Nanjing University, wujx2001@gmail.com
+Shuicheng, yan, National University of Singapore, eleyans@nus.edu.sg
+
+
