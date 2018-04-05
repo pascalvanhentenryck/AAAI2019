@@ -1,373 +1,196 @@
-AI and the Web  (10%)
-
-David V. Pynadath, USC
-Mausam, University of Washington
+AI and the Web  (10%) 5
+=====================================================
+Weixiong Zhang, Washington University at Saint Louis, weixiong.zhang@wustl.edu
+Yiling Chen, Harvard University, yiling@seas.harvard.edu
+Diego Calvanese, Free University of Bozen-Bolzano, Italy, calvanese@inf.unibz.it
+Iyad Rahwan, Massachusetts Institute of Technology, irahwan@mit.edu
+Irwin King, The Chinese University of Hong Kong, Hong Kong,  king@cse.cuhk.edu.hk
+-------------------------------------------------------------
+Doug Downey, Nothwestern University
 Sanmay Das, Washington University at Saint Louis
 Craig Knoblock, USC
-Doug Downey, Nothwestern University
-Weixiong Zhang, Washington University at Saint Louis
-Yiling Chen, Harvard University
-Diego Calvanese, Free University of Bozen-Bolzano
-Iyad Rahwan, Massachusetts Institute of Technology
+Yutaka Matsuo, (University of Tokyo, Japan
+David V. Pynadath, USC
 
-• AIW: AI for Data Analytics
-• AIW: AI for Multimedia and Multimodal Web Applications
-• AIW: AI for Web Services: Semantic Descriptions, Planning, Matching, and Coordination
-• AIW: AI for Web-Based Collaboration and Cooperation
-• AIW: Crowdsourcing Techniques and Methodologies
-• AIW: Enhancing Web Search and Information Retrieval
-• AIW: Exploiting Linked Open Data
-• AIW: Human Language Technologies for Web Systems, Including Text Summarization and Machine Translation
-• AIW: Intelligent User Interfaces for Web Systems
-• AIW: Knowledge Acquisition from the Web
-• AIW: Languages, Tools, and Methodologies for Representing, Managing, and Visualizing Semantic Web Data
-• AIW: Ontologies and the Web: Creation, Extraction, Evolution, Mapping, Merging, and Alignment; Tags and Folksonomies
-• AIW: Question Answering on the Web
-• AIW: Recognizing Web Spam Such as Link Farms and Splogs
-• AIW: Representing, Reasoning, and Using Provenance, Trust, Privacy, and Security on the Web
-• AIW: Searching, Querying, Visualizing, and Interpreting the Semantic Web
-• AIW: Social Networking and Community Identification
-• AIW: Web Personalization and User Modeling
-• AIW: Web-Based Opinion Extraction and Trend Spotting
-• AIW: Web-Based Recommendation Systems
+AI For Social Impact 
+=====================================================
+Milind Tambe, USC, tambe@usc.edu
+Kevin Leyton-Brown, UBC, kevinlb@cs.ubc.ca
 
-Milind, 
-Kevin, 
+Applications 10% 5
+=====================================================
+Stephen Smith, CMU, sfs@cs.cmu.edu
+Chad Jenkins, Michigan, ocj@umich.edu
+Pascal Poupart, Waterloo, ppoupart@uwaterloo.ca
+Volker Roth, University of Basel, Volker.Roth@unibas.ch
+Jennifer Neville, Purdue University, USA, neville@cs.purdue.edu
 
-Applications 10%
+Cognitive Modeling [1%] 1
+=====================================================
+John E. Laird, University of Michigan, laird@umich.edu
 
-Stephen Smith, CMU
-Mykel J. Kochenderfer, Stanford
-Chad Jenkins, Michigan
-Pascal Poupart, Waterloo
-Volker Roth, University of Basel
-
-• APP: AI and Natural Sciences
-• APP: Art and Music
-• APP: Biomedical/Bioinformatics/Medicine
-• APP: Computational Social Science
-• APP: Computer-Aided Education
-• APP: Economic/Financial
-• APP: Energy
-• APP: Entertainment Applications
-• APP: Environmental
-• APP: Game Playing
-• APP: Humanities
-• APP: Intelligent User Interfaces
-• APP: Marketing
-• APP: Mobility
-• APP: Networks
-• APP: Philosophical and Ethical Issues
-• APP: Security and Privacy
-• APP: Social Networks
-• APP: Transportation
-• APP: Web
-• APP: Other Applications
-
-Cognitive Modeling [1%]
-
-John E. Laird, University of Michigan
-
-• CM: Adaptive Behavior
-• CM: Agent Architectures
-• CM: Bayesian Learning
-• CM: Cognitive Architectures
-• CM: Neural Spike Coding
-• CM: Simulating Humans
-• CM: Symbolic AI
-
-Cognitive Systems [2%]
-
-Héctor Muñoz-Avila, Lehig University
+Cognitive Systems [2%] 1
+=====================================================
+Ashok Goel, Georgia Tech, goel@cc.gatech.edu
+-------------------------
+Héctor Muñoz-Avila, Lehigh University
 Matthew Klenk, Xerox Park
-Ashok Goel, Georgia Tech
 Mark Riedl, Georgia Tech
 
-• CS: Conceptual Inference and Reasoning
-• CS: Introspection and Meta-Cognition
-• CS: Memory Storage And Retrieval
-• CS: Social Cognition And Interaction
-• CS: Structural Learning And Knowledge Capture
+Computational Sustainability (2%) 1
+=====================================================
+Bistra Dilkina, USC, dilkina@usc.edu
 
-Computational Sustainability (2%)
+Game Playing and Interactive Entertainment [1%] 1
+=====================================================
+Michael Bowling, Alberta, bowling@cs.ualberta.ca
 
-Bistra Dilkina, USC.
-
-• CSAI: Control And Optimization Of Dynamic And Spatiotemporal Systems
-• CSAI: Modeling And Control Of Complex High-Dimensional Systems 
-• CSAI: Modeling And Prediction Of Dynamic And Spatiotemporal Phenomena And Systems
-• CSAI: Modeling the Interactions Of Agents With Different And Often Conflicting Interests
-• CSAI: Network Modeling, Prediction, And Optimization
-• CSAI: Sensor Networks for Monitoring Environments
-• CSAI: Support for Public Engagement And Decision Making By the Public
-
-Game Playing and Interactive Entertainment [1%]
-
-Michael Bowling, Alberta.
-
-• GPIE: General Game Playing
-• GPIE: Game Design
-• GPIE: Production and Authoring Tools
-• GPIE: Storytelling
-• GPIE: Autonomous Characters, NPCs, and Virtual Humans
-• GPIE: Procedural Content Generation
-• GPIE: Computational Creativity and Generative Art
-• GPIE: Games for Impact
-
-Game Theory and Economic Paradigms (5%)
-
-Francesca Rossi, IBM.
-Vincent Conitzer, Duke.
+Game Theory and Economic Paradigms (5%) 3
+=====================================================
+Francesca Rossi, IBM, frossi@math.unipd.it
+Vincent Conitzer, Duke, conitzer@cs.duke.edu
+Kate Larson, University of Waterloo, kate.larson@uwaterloo.ca
+-------------------------------------------
 Ariel Procaccia, CMU
 
-• GTEP: Auctions and Market-Based Systems
-• GTEP: Game Theory
-• GTEP: Negotiation and Contract-Based Systems
-• GTEP: Social Choice / Voting
-• GTEP: Adversarial Learning
-• GTEP: Coordination and Collaboration
-• GTEP: Equilibrium
-• GTEP: Opponent Modeling
-• GTEP: Imperfect Information
-
-Heuristic Search (1.5%)
-
+Heuristic Search (1.5%) 1
+=====================================================
+Nathan Sturtevant, University of Denver, sturtevant@cs.du.edu
+---------------------------------------
 Sven Koening, USC
-Stephen F. Smith, CMU
-Nathan Sturtevant, University of Denver
 Wheeler Ruml, University of New Hampshire
 
-• HSO: Distributed Search
-• HSO: Evaluation and Analysis 
-• HSO: Heuristic Search
-• HSO: Metareasoning and Metaheuristics
-• HSO: Search (General/Other)
-
-Human-AI Collaboration (3-4%)
-
-Ece Kamar, Microsoft
+Human-AI Collaboration (3-4%) 2
+=====================================================
+Charles L. Isbell, Jr., Georgia Tech, isbell@cc.gatech.edu 
+Ece Kamar, Microsoft, eckamar@microsoft.com
+-----------------------------------
 Julie Shah, MIT
-Charles L. Isbell, Jr., Georgia Tech
 Ross A. Knepper, Cornell
 Ya'akov (Kobi) Gal, Ben Gurion
-Devi Parikh, Georgia Tech
 
-• HAC: Communication Protocols
-• HAC: Human-Agent Negotiation
-• HAC: Human-Aware Planning and Behavior Prediction
-• HAC: Human Computation 
-• HAC: Human-in-the-loop Planning/Learning
-• HAC: Human-Robot/Agent Interaction
-• HAC: Planning and Decision Support for Human-Machine Teams
-• HAC: Teamwork, Team formation
-• HAC: Trustable and Explainable AI
+Humans and AI [1%] 1
+=====================================================
+Devi Parikh, Georgia Tech, parikh@gatech.edu
 
-Humans and AI  [1%]
+Human Computation and Crowd Sourcing [1%] 1
+=====================================================
+Laura M. Hiatt, Naval Research Laboratory, laura.hiatt@nrl.navy.mil
 
-Devi Parikh, Georgia Tech
-
-• HAI: Brain-Sensing and Analysis
-• HAI: Communication Protocols
-• HAI: Human-Computer Interaction
-• HAI: Interaction Techniques and Devices
-• HAI: Language Acquisition
-• HAI: Understanding People, Theories, Concepts and Methods
-• HAI: User Experience and Usability
-• HAI: Voting
-
-Human Computation and Crowd Sourcing [1%]
-
-Laura M. Hiatt, Naval Research Laboratory
-
-• HCC: Abstraction of Human Computation Tasks into Taxonomies of Mechanisms
-• HCC: Active Learning from Imperfect Human Labelers
-• HCC: Benefits of One-Time Versus Repeated Labeling
-• HCC: Concerns Regarding the Protection of Labeler Identities
-• HCC: Cost, Reliability, and Skill of Labelers
-• HCC: Creation of Intelligent Bots in Human Computation Games
-• HCC: Design of Manipulation-Resistance Mechanisms in Human Computation
-• HCC: Differences Between Collaborative Vs. Competitive Tasks
-• HCC: Domain-Specific Implementation Challenges in Human Computation Games
-• HCC: Effectiveness of CAPTCHAs
-• HCC: Focus on Tasks Where Crowds, Not Individuals, Have the Answers
-• HCC: Game-Theoretic Mechanism Design of Incentives for Motivation and Honest Reporting
-• HCC: Limitations of Human Computation
-• HCC: Optimality in the Context of Human Computation
-• HCC: Programming Languages, Tools, and Platforms to Support Human Computation
-• HCC: Theories about What Makes Some Human Computation Tasks Fun and Addictive
-• HCC: Utility of Social Networks and Social Credit in Garnering Data
-
-Knowledge Representation and Reasoning (7.5%)
-
-Fangzhen Lin, Hong Kong University of Science and Technology 
-Giuseppe De Giacomo, Sapienza Universita' di Roma
-Thomas Eiter, TU Wien
-David Poole, UBC
+Knowledge Representation and Reasoning (7.5%) 4
+=====================================================
+Thomas Eiter, TU Wien, eiter@kr.tuwien.ac.at
+Giuseppe De Giacomo, Sapienza Universita' di Roma, degiacomo@dis.uniroma1.it
+Fangzhen Lin, Hong Kong University of Science and Technology, flin@cs.ust.hk
+David Poole, UBC, poole@cs.ubc.ca
+--------------------------------------------------------
+Marc Denecker, KULeuven
 Yves Lesperance, York University, Toronto 
 Michael Thielscher, USNW
-Marc Denecker, KULeuven
 
-• KRR: Knowledge Acquisition
-• KRR: Knowledge Engineering
-• KRR: Ontologies
-• KRR: Action, Change, and Causality
-• KRR: Argumentation
-• KRR: Automated Reasoning and Theorem Proving
-• KRR: Belief Change
-• KRR: Common-Sense Reasoning
-• KRR: Computational Complexity of Reasoning
-• KRR: Description Logics
-• KRR: Diagnosis and Abductive Reasoning
-• KRR: Geometric, Spatial, and Temporal Reasoning
-• KRR: Knowledge Representation Languages
-• KRR: Logic Programming
-• KRR: Nonmonotonic Reasoning
-• KRR: Preferences
-• KRR: Qualitative Reasoning
-• KRR: Reasoning with Beliefs
-• KRR: Knowledge Representation (General/Other)
+Machine Learning [many :)]
+=====================================================
 
-Machine Learning
+Pieter Abbeel, UC Berkeley, pabbeel@cs.berkeley.edu
+Maria-Florina Balcan, Carnegie Mellon University, ninamf@cs.cmu.edu
+Craig Boutilier cboutilier@google.com Google
+Luc De Raedt, Katholieke Universiteit Leuven, Luc.DeRaedt@cs.kuleuven.be
+Pedro Domingos, University of Washington, pedrod@cs.washington.edu
+Jennifer Dy, Northeastern University, jdy@ece.neu.edu 
+Alan Fern, Oregon State University, afern@eecs.oregonstate.edu 
+Johannes Fuenkranz, TU Darmstadt, juffi@ke.informatik.tu-darmstadt.de 
+Yuhong Guo, Carleton University, Yuhong.Guo@carleton.ca	
+Jingrui	He, Arizona State University, jingrui.he@gmail.com
+Geoff Holmes, The University of Waikato, geoff@waikato.ac.nz	
+Vasant Honavar, The Pennsylvania State University, vhonavar@ist.psu.edu
+Rong Jin, Alibaba Inc jinrong.jr@alibaba-inc.com	
+James Kwok, Hong Kong University of Science and Technology, jamesk@cse.ust.hk	
+John Langford, Microsoft, jl@hunch.net	
+Wee Sun Lee, National University of Singapore, leews@comp.nus.edu.sg
+Daniel Lee, University of Pennsylvania, ddlee@seas.upenn.edu 
+Hang Li, Toutiao Inc, hangli65@gmail.com 
+Lihong 	Li, Google, lihongli.cs@gmail.com 
+Hsuan Tien Lin,	National Taiwan University, htlin@csie.ntu.edu.tw 
+Bing Liu, University of Illinois at Chicago, liub@uic.edu 
+Huan Liu, Arizona State University, hliu@asu.edu	
+Tie-Yan	Liu, Microsoft, tyliu@microsoft.com	
+Andrew McCallum, University of Massachusetts Amherst, mccallum@cs.umass.edu	
+Alexandru Niculescu Mizil, NEC Laboratories America, alexnic@gmail.com	
+Doina Precup, McGill University, dprecup@cs.mcgill.ca	
+Ruslan Salakhutdinov, Carnegie Mellon University, rsalakhu@cs.cmu.edu	
+Dale Schuurmans, University of Alberta, dale@cs.ualberta.ca	
+Michele Sebag, Laboratoire de Recherche en Informatique, sebag@lri.fr	
+Fei Sha, University of Southern California, feisha@usc.edu	
+David Silver, Google DeepMind, davidsilver@google.com	
+Peter Stone, University of Texas at Austin, pstone.peter@gmail.com	
+Masashi Sugiyama, The University of Tokyo, sugi@k.u-tokyo.ac.jp	
+Csaba Szepesvari, University of Alberta, szepesva@ualberta.ca	
+Kilian Weinberger, Cornell University, kqw4@cornell.edu	
+Jianxin	Wu, Nanjing University, wujx2001@gmail.com	
+Qiang Yang, Hong Kong University of Science and Technology, qyang@cse.ust.hk	
+Jieping	Ye, University of Michigan, jpye@umich.edu	
+Yang Yu, Nanjing University, yuy@lamda.nju.edu.cn	
+Kun Zhang, Carnegie Mellon University, kunz1@cmu.edu	
+Min Ling Zhang,	Southeast University, zhangml@seu.edu.cn	
+Tong Zhang, Tencent Inc, tongzhang@tongzhang-ml.org	
+Jun Zhu, Tsinghua University, dcszj@mail.tsinghua.edu.cn	
+Xiaojin	Zhu, University of Wisconsin-Madison, jerryzhu@cs.wisc.edu	
+Mausam,	University of Washington, mausam@cs.washington.edu	
 
-• ML: Active Learning
-• ML: Bayesian Learning
-• ML: Causal Learning
-• ML: Classification
-• ML: Clustering
-• ML: Data Mining
-• ML: Deep Learning/Neural Networks
-• ML: Dimensionality Reduction/Feature Selection
-• ML: Ensemble Methods
-• ML: Evaluation and Analysis (Machine Learning)
-• ML: Evolutionary Learning
-• ML: Feature Construction/Reformulation
-• ML: Kernel Methods
-• ML: Learning Preferences or Rankings
-• ML: Learning Theory
-• ML: Machine Learning (General/other)
-• ML: Multi-instance/Multi-label/Multi-view learning
-• ML: New Problems
-• ML: Online Learning
-• ML: Probabilistic Graphical Model
-• ML: Recommender Systems
-• ML: Reinforcement Learning
-• ML: Relational Learning
-• ML: Semi-Supervised Learning
-• ML: Structured Prediction
-• ML: Supervised Learning (Other)
-• ML: Time-Series/Data Streams
-• ML: Transfer/Adaptation/Multi-task Learning
-• ML: Unsupervised Learning (Other)
- 
-Multiagent Systems (5%)
-
-Vincent Conitzer, Duke University
-Haris Aziz, CSIRO
-David Parkes, Harvard University
-Craig Boutilier, Google
-Sarit Kraus, Bar-Ilan University 
+Multiagent Systems (5%) 3
+=====================================================
+Haris Aziz, CSIRO, Haris.Aziz@data61.csiro.au
+David Parkes, Harvard University, parkes@eecs.harvard.edu 
+Sarit Kraus, Bar-Ilan University, sarit@cs.biu.ac.il
+--------------------------------
 Amy Greenwald, Brown University
 
-• MAS: Ad-Hoc Teamwork
-• MAS: Agent/AI Theories and Architectures
-• MAS: Agent-Based Simulation and Emergent Behavior
-• MAS: Agent Communication
-• MAS: Coordination and Collaboration
-• MAS: Distributed Problem Solving
-• MAS: E-Commerce
-• MAS: Opponent Modeling
-• MAS: Mechanism Design
-• MAS: Multiagent Learning
-• MAS: Multiagent Planning
-• MAS: Evaluation and Analysis (Multiagent Systems)
-• MAS: Multiagent Systems (General/other)
+NLP (10-20%) 10
+=====================================================
+Yejin Choi, University of Washington, yejin@cs.washington.edu
+Sanja Fidler, University of Toronto, fidler@cs.toronto.edu
+Lillian Lee, Cornell University, llee@cs.cornell.edu
+Daniel Marcu, ISI, marcu@isi.edu
+Radha Mihalcea, University of Michigan, mihalcea@umich.edu
+Roberto Navigli, Sapienza Universita' di Roma, Italy, navigli@di.uniroma1.it
+Hwee Tou Ng, NUS, nght@comp.nus.edu.sg
+Dragomir Radev, Yale University, dragomir.radev@yale.edu
+Dan Roth, University of Pennsylvania, danroth@cis.upenn.edu
+Chengqing Zong, Institute of Automation, Chinese Academy of Sciences, cqzong@nlpr.ia.ac.cn
+-------------------------------------
+Prateek Jain, Microsoft,
+Julia Hockenmaier, University of Illinois at Urbana-Champain,
+Noah Smith, University of Washington,
 
-NLP (10-20%)
-
-Dan Roth, University of Pennsylvania
-Radha Mihalcea, University of Michigan
-Laura M. Hiatt, Naval Research Laboratory (see above)
-Prateek Jain, Microsoft
-Sanja Fidler, University of Toronto
-Hwee Tou Ng, NUS
-Daniel Marcu, ISI
-Dragomir Radev, Yale University
-Yejin Choi, University of Washington
-Julia Hockenmaier, University of Illinois at Urbana-Champain
-Noah Smith, University of Washington
-Lillian Lee, Cornell University
-
-• NLP: Discourse and Dialogue
-• NLP: Information Extraction
-• NLP: Knowledge Representation
-• NLP: Ontology Induction
-• NLP: Question Answering
-• NLP: Semantics and Summarization
-• NLP: Text Classification
-• NLP: Natural Language Processing (General/Other)
-
-Planning, Routing, and Scheduling (8%)
-
+Planning, Routing, and Scheduling (8%) 4
+=====================================================
+Gaby Roeger, University of Basel, gabriele.roeger@unibas.ch
+Hector Geffner, Universitat Pompeu Fabra, hector.geffner@upf.edu
+Scott Sanner, Toronto, ssanner@mie.utoronto.ca 
+Patrik Haslum, ANU, patrik.haslum@anu.edu.au
+-------------------------------------
 Chris Beck, Toronto
-Sylvie Thiebaux, ANU
 Malte Helmert, University of Basel
-Gaby Roeger, University of Basel
-Stephen Smith, CMU
-Hector Geffner, Universitat Pompeu Fabra 
-Scott Sanner, Toronto
-Patrik Haslum, ANU
+Sylvie Thiebaux, ANU
 
-• PRS: Activity and Plan Recognition
-• PRS: Deterministic Planning
-• PRS: Learning Models for Planning and Diagnosis
-• PRS: Markov Models of Environments
-• PRS: Mixed Discrete/Continuous Planning
-• PRS: Model-Based Reasoning
-• PRS: Plan Execution and Monitoring
-• PRS: Probabilistic Planning
-• PRS: Replanning and Plan Repair
-• PRS: Routing
-• PRS: Scheduling
-• PRS: Temporal Planning
-• PRS: Planning, Routing, and Scheduling (General/Other)
-
-Reasoning Under Uncertainty (1%)
-
+Reasoning Under Uncertainty (1%) 1
+=====================================================
+Rina Dechter, UC Irvine, dechter@ics.uci.edu
+------------------------
 Shlomo Zilberstein, University of Massachusetts
-Rina Dechter, UC Irvine
 
-• RU: Bayesian Networks
-• RU: Graphical Models 
-• RU: Decision/Utility Theory
-• RU: Probabilistic Inference
-• RU: Relational Probabilistic Models
-• RU: Sequential Decision Making
-• RU: Stochastic Optimization
-• RU: Uncertainty Representations
-• RU: Uncertainty in AI (General/Other)
+Robotics [2%] 1
+=====================================================
+Leslie Pack Kaelbling, MIT, lpk@csail.mit.edu
+--------------------------
+Sven Koenig, USC,
+Julie Shah, MIT,
+Manuela Veloso, CMU,
 
-Robotics [2%]
-
-Sven Koenig, USC (see above)
-Peter Stone, UT Austin
-Manuela Veloso, CMU
-Julie Shah, MIT (see above)
-Ross A. Knepper, Cornell (see above)
-Laura M. Hiatt, Naval Research Laboratory (see above)
-Leslie Pack Kaelbling, MIT
-
-• ROB: Behavior and Control
-• ROB: Cognitive Robotics
-• ROB: Human-Robot Interaction
-• ROB: Localization, Mapping, and Navigation
-• ROB: Motion and Path Planning
-• ROB: Multi-Robot Systems
-• ROB: State Estimation
-• ROB: Robotics (General/Other)
-
-Constraint Satisfaction and Optimization (1.5%)
-
-Michela Milano, University of Bologna
+Constraint Satisfaction and Optimization (1.5%) 1
+=====================================================
+Michela Milano, University of Bologna, michela.milano@unibo.it
+--------------------------------------
 Peter van Beek, University of Waterloo
 Willem van Hoeve, CMU
 Fahiem Bacchus, University of Toronto
@@ -375,35 +198,22 @@ Daniel Le Berre, Université d'Artois
 Ines Lynce, INESC-ID Lisboa, 
 Maria garcia de la Banda, Monash University
 
-• SCS: Constraint Learning and Acquisition
-• SCS: Constraint Optimization
-• SCS: Constraint Programming
-• SCS: Constraint Satisfaction
-• SCS: Distributed CSP/Optimization
-• SCS: Global Constraints
-• SCS: Hybrid Optimization
-• SCS: Machine Learning and Optimization
-• SCS: Satisfiability 
-• SCS: Satisfiability Modulo Theories
-• SCS: Search
-• SCS: Solvers and Tools
-• SCS: Constraint Satisfaction and Optimization (General/other)
-
-Vision [20%]
-
-Prateek Jain, Microsoft (see above)
-Sanja Fidler, University of Toronto (see above)
-Manmohan Chandraker, NEC, US
+Vision [20%] 10
+=====================================================
+Ognjen Arandjelovic, University of St Andrews, United Kingdom, ognjen.arandjelovic@gmail.com
+Manmohan Chandraker, NEC, manu@nec-labs.com 
+Bruce Draper, Colorado State University, draper@colostate.edu 
+Yun Fu, Northeastern University,  yunfu@ece.neu.edu
+Zhouchen Lin, Peking University, zlin@pku.edu.cn
+Jiebo Luo, University of Rochester, jiebo.luo@gmail.com
+Dacheng Tao, University of Technology Sydney, dacheng.tao@uts.edu.au
+Rene Vidal, Johns Hopkins University, rvidal@cis.jhu.edu
+Jianxin Wu, Nanjing University, wujx2001@gmail.com
+Shuicheng, yan, National University of Singapore, eleyans@nus.edu.sg
+--------------------------------------------------------------------
+Prateek Jain, Microsoft
 Claire Cardie, Cornell University
 Pedro Felzenszwalb, Brown University
+Byron Boots (Georgia Institute of Technology, USA)
+Rama Chellappa (University of Maryland, USA)
 
-• VIS: Categorization
-• VIS: Face and Gesture Recognition
-• VIS: Image and Video Retrieval
-• VIS: Language and Vision
-• VIS: Motion
-• VIS: Object Detection
-• VIS: Object Recognition
-• VIS: Perception
-• VIS: Statistical Methods and Learning
-• VIS: Videos

@@ -21,16 +21,37 @@ AI and the Web
 • AIW: Web-Based Opinion Extraction and Trend Spotting
 • AIW: Web-Based Recommendation Systems
 
+AI for Social Impact
+
+• AISI: Natural Sciences
+• AISI: Art and Music
+• AISI: Biomedical/Bioinformatics/Medicine
+• AISI: Computational Social Science
+• AISI: Education
+• AISI: Economic/Financial
+• AISI: Energy
+• AISI: Environmental
+• AISI: Humanities
+• AISI: Marketing
+• AISI: Mobility
+• AISI: Networks
+• AISI: Philosophical and Ethical Issues
+• AISI: Security and Privacy
+• AISI: Social Networks
+• AISI: Transportation
+• AISI: Web
+• AISI: Other Social Impact
+
 Applications
 
-• APP: AI and Natural Sciences
+• APP: Natural Sciences
 • APP: Art and Music
 • APP: Biomedical/Bioinformatics/Medicine
 • APP: Computational Social Science
 • APP: Computer-Aided Education
 • APP: Economic/Financial
 • APP: Energy
-• APP: Entertainment Applications
+• APP: Entertainment
 • APP: Environmental
 • APP: Game Playing
 • APP: Humanities
@@ -65,13 +86,29 @@ Cognitive Systems
 
 Computational Sustainability
 
-• CSAI: Control And Optimization Of Dynamic And Spatiotemporal Systems
-• CSAI: Modeling And Control Of Complex High-Dimensional Systems 
-• CSAI: Modeling And Prediction Of Dynamic And Spatiotemporal Phenomena And Systems
-• CSAI: Modeling the Interactions Of Agents With Different And Often Conflicting Interests
-• CSAI: Network Modeling, Prediction, And Optimization
-• CSAI: Sensor Networks for Monitoring Environments
-• CSAI: Support for Public Engagement And Decision Making By the Public
+• CSUS: Control And Optimization Of Dynamic And Spatiotemporal Systems
+• CSUS: Modeling And Control Of Complex High-Dimensional Systems 
+• CSUS: Modeling And Prediction Of Dynamic And Spatiotemporal Phenomena And Systems
+• CSUS: Modeling the Interactions Of Agents With Different And Often Conflicting Interests
+• CSUS: Network Modeling, Prediction, And Optimization
+• CSUS: Sensor Networks for Monitoring Environments
+• CSUS: Support for Public Engagement And Decision Making By the Public
+
+Constraint Satisfaction and Optimization
+
+• CSO: Constraint Learning and Acquisition
+• CSO: Constraint Optimization
+• CSO: Constraint Programming
+• CSO: Constraint Satisfaction
+• CSO: Distributed CSP/Optimization
+• CSO: Global Constraints
+• CSO: Hybrid Optimization
+• CSO: Machine Learning and Optimization
+• CSO: Satisfiability 
+• CSO: Satisfiability Modulo Theories
+• CSO: Search
+• CSO: Solvers and Tools
+• CSO: Constraint Satisfaction and Optimization (General/other)
 
 Game Playing and Interactive Entertainment
 
@@ -265,22 +302,6 @@ Robotics
 • ROB: Multi-Robot Systems
 • ROB: State Estimation
 • ROB: Robotics (General/Other)
-
-Constraint Satisfaction and Optimization
-
-• SCS: Constraint Learning and Acquisition
-• SCS: Constraint Optimization
-• SCS: Constraint Programming
-• SCS: Constraint Satisfaction
-• SCS: Distributed CSP/Optimization
-• SCS: Global Constraints
-• SCS: Hybrid Optimization
-• SCS: Machine Learning and Optimization
-• SCS: Satisfiability 
-• SCS: Satisfiability Modulo Theories
-• SCS: Search
-• SCS: Solvers and Tools
-• SCS: Constraint Satisfaction and Optimization (General/other)
 
 Vision
 
