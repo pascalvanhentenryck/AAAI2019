@@ -1,0 +1,31 @@
+Dear $RecipientFirstName$, 
+
+We are contact you to sollicit your help for AAAI-19.
+
+AAAI-19 will employ a four-level management system, in which we have two program committee co-chairs (Pascal and Zhi-Hua), Area Chairs (AC), Senior Program Committee members (SPC), and Program Committee members (PC). Each paper will be assigned to three PCs, one SPC, and one AC. The three PC members will write the initial independent reviews, and the SPC member will facilitate the discussion between the PC members to arrive at a decision, and will also write meta-reviews as needed. An AC will recommend a number of SPCs in their areas, who will in turn recommend a number of reviewers. An AC will then
+oversee the review process of assigned papers, communicate with the SPC members about final decisions, and recommend the final decisions to us. An AC will also recommend oral presentations based on the submitted papers and optional links to slides and/or videos. This is a slight revision compared to AAAI-18 but we feel that it is beneficial to handle the large expected number of submissions and ensure the quality of the reviews. 
+
+ACTION REQUIRED:
+        1. Please review the important dates for AAAI-19 to make sure that you can be available at the critical times
+	2. Please email your response to this invitation (yes or no) by Friday, April 20 to AAAI at aaai19@aaai.org
+
+Do not hesitate to contact us if you need additional information.
+
+We truly hope that you will join us in making AAAI-19 a success. 
+
+Best regards,
+
+Pascal Van Hentenryck (co-chair)
+Zhi-Hua Zhou (co-chair) 
+
+
+/******************************************************************************************/
+Timetable for Authors
+
+• July 1 – September 1, 2018: Authors register on the AAAI web site
+• September 1, 2018: Electronic abstracts due at 11:59 PM UTC-10 (midnight Hawaii)
+• September 5, 2018: Electronic papers due at 11:59 PM UTC-10 (midnight Hawaii)
+• October 11-14, 2018: Author feedback about initial reviews
+• November 1, 2018: Notification of acceptance or rejection
+• November 14, 2018: Camera-ready copy due at 5:00 PM PDT (California time)
+• November 14, 2018: Optional submission of links to presentation slides and/or videos due at 5:00 PM PDT (California time)
