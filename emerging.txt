@@ -1,0 +1,22 @@
+AAAI-19 Emerging Topic: Artificial Intelligence for Social Impact
+
+Call for Papers
+
+AAAI-19 will feature an emerging topic on artificial intelligence for social impact. The track recognizes that high-quality research on social impact domains often led to papers that differ from traditional AAAI submissions along multiple dimensions. These include, but are not restricted to, the following elements.
+
+1. Data collection may be difficult and may require innovative methods and validations, for instance to eliminate bias and ensure fairness;
+
+2. Problem modeling is a time-intensive activity that require significant collaborations with domain experts and need to balance a variety of tradeoffs in decision making;
+
+3. The social impact is only realized through time-consuming field studies that typically compare a baseline with the application of novel algorithms in the real world. 
+
+The goal of this emerging topic at AAAI 2019 is to highlight these technical challenges and opportunities, showcase the social benefits of Artificial Intelligence, and ensure that the submitted papers will be evaluated holistically in terms of overall impact and their contributions to the multiple dimensions listed above. 
+
+The submissions for this emerging topic will follow the regular AAAI technical paper submission process. The AAAI-19 call for papers features a category "AI for Social Impact" for identifying the papers submitted to this track. Other keywords can be used to describe the paper content more comprehensively. 
+
+Accepted papers will be presented at the main conference in sessions designated to the topic. 
+
+Emerging Topics Cochairs
+Kevin leighton-Brown, UBC, Canada
+Milind Tambe, USC, USA
+
